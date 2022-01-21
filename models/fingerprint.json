@@ -1,0 +1,14 @@
+{
+  "config": "99914b932bd37a50b983c5e7c90ae93b",
+  "core-config": "e3190977d674e65c3b819fbb23e95e58",
+  "nlu-config": "c7d368e915aba632f7ce07ea0f33700f",
+  "domain": 1716776340701895525,
+  "messages": [
+    "21ca41e5b3cc0edf7f3966d7d71be993"
+  ],
+  "stories": [
+    "bd8e17b28e2e30c93c5b08ba4c5bbf91"
+  ],
+  "trained_at": 1563195240.984143,
+  "version": "1.1.6"
+}
